@@ -1,3 +1,6 @@
 a.out
 b.out
 results/plots
+
+*.dat           # ignore all data files
+!final.dat      # except final.data
